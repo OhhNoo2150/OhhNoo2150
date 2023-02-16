@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
 -->
-- :mortar_board: I'm currently learning from ...<br>
+- :mortar_board: I’ve recieved a Full Stack Developers certification from ...<br>
 <a href='https://xpro.mit.edu'><img src='./img/mitxPro_logoStacked.jpeg' alt='MIT Logo' width='30'></a>
 - :telescope: I’m currently working on ...<br>
 <img src='./img/react_logo_trans' alt='React Logo' width='30'><br> #TheStruggleIsReal 
 
 
-- 🌱 I’ve recieved a Full Stack Developers certification from ... <br>
+- 🌱  languages or programs I have worked with... <br>
 <a href='https://html.com/html5/'><img src='./img/html5_logo.gif' alt='HTML5 logo' width='30'></a> <a href='https://html.com/css/'><img src='./img/css3_logo.gif' alt='CSS3 logo' width='30'></a> <a href='https://www.javascript.com/'><img src='./img/javascript_logo.gif' alt='JavaScript logo' width='30'> </a> <a herf='https://getbootstrap.com/'><img src='./img/bootstrap-logo.svg' alt='Bootstrap logo' width='35'></a> <a href='https://git-scm.com/'><img src='./img/gitLogoOrangeRed.png' alt='VS Code logo' width='30'></a> <a href='https://code.visualstudio.com/'><img src='./img/vsCodeLogo.png' alt='VS Code logo' width='30'></a> <a href='https://jestjs.io/'><img src='./img/jest_logo.gif' alt='Jest Logo' height='35'></a> <a href='https://www.mongodb.com/mern-stack'><img src='./img/mernStackTrans.png' alt='VS Code logo' height='40'></a>
 - 👯 I’m looking to collaborate on ...<br>
 right now, anything that would help me gain experience <br>
