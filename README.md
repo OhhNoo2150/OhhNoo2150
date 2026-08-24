@@ -55,6 +55,12 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 
 ---
 
+### 📚 Publications & Research Acumen
+
+* **Epidemiology & Surveillance:** Co-authored peer-reviewed surveillance research analyzing large-scale diagnostic datasets, published in the *Medical Surveillance Monthly Report* (MSMR).
+
+---
+
 ### 📜 Education & Background
 * **M.S. in Medical Laboratory Sciences** (In Progress) 🧑‍🔬
 * **B.S. in Public Health** (Epidemiology Focus) 👨‍⚕️
