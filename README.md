@@ -65,7 +65,7 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 ## 📫 Get in Contact With Me
 
 <!-- Connect Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/DanielRivera) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:Daniel.i.rivera@pm.me) 
 
 ### 🔬 Professional Affiliations
