@@ -65,10 +65,10 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 ## 📫 Get in Contact With Me
 
 <!-- Connect Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 🔗
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Daniel.i.rivera@pm.me) 📧
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:Daniel.i.rivera@pm.me) 
 
 ### 🔬 Professional Affiliations
-🦠[![ASCP Member](https://img.shields.io/badge/ASCP-Member-003366?style=flat-square)](https://www.ascp.org/)
-🧪[![ASCLS Member](https://img.shields.io/badge/ASCLS-Member-008080?style=flat-square)](https://ascls.org/)
-🧬[![ICCS Member](https://img.shields.io/badge/ICCS-Member-4B0082?style=flat-square)](https://www.cytometry.org/)
+[![ASCP Member](https://img.shields.io/badge/ASCP-Member-003366?style=flat-square&logo=microscope&logoColor=white)](https://www.ascp.org/) 
+[![ASCLS Member](https://img.shields.io/badge/ASCLS-Member-008080?style=flat-square&logo=testtube&logoColor=white)](https://ascls.org/)
+[![ICCS Member](https://img.shields.io/badge/ICCS-Member-4B0082?style=flat-square&logo=target&logoColor=white)](https://www.cytometry.org/)
