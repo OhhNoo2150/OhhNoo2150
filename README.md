@@ -27,7 +27,7 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 
 * **Quality Control & Regulatory Standards:** Evaluation of Levey-Jennings charts, implementation of Westgard multi-rules ($1_{2s}, 1_{3s}, 2_{2s}, R_{4s}, 4_{1s}, 10_x$), and clinical delta checks.
 * **Epidemiological & Diagnostic Data Analysis:** Processing, managing, and validating large-scale clinical surveillance and laboratory datasets for peer-reviewed research.
-* **Flow Cytometry Analysis:** Multi-parameter cell population gating, panel setup, and diagnostic characterization.
+* **Flow Cytometry Analysis:** Multi-parameter cell population gating, panel setup, and diagnostic characterization. **COMING SOON**
 
 ---
 
