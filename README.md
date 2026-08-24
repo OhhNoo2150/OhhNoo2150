@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Rivera ✊
 
 **Medical Laboratory Sciences Graduate Student | U.S. Marine Corps Veteran 🇺🇸**  
-[![Orgullo Boricua]([https://img.shields.io/badge/Boricua_de_Pura_Cepa-Puerto_Rico_🇵🇷-ED0000?style=flat-square&labelColor=00205B)]([https://en.wikipedia.org/wiki/Puerto_Rico](https://www.estado.pr.gov/en/home)](https://www.estado.pr.gov/en/home))
+[![Orgullo Boricua](https://img.shields.io/badge/Boricua_de_Pura_Cepa-Puerto_Rico_🇵🇷-ED0000?style=flat-square&labelColor=00205B)](https://www.estado.pr.gov/en/home)
 
 Graduate student bridging clinical laboratory diagnostics and public health epidemiology, with a technical background in software systems. Currently focused on clinical diagnostics and developing automated data pipelines for laboratory workflows.
 
