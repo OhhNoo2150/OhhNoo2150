@@ -9,7 +9,7 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 
 ### 🌴 Roots & Background
 * **Heritage:** Born / raised with proud Puerto Rican roots (Boricua) 🇵🇷
-* **Service:** U.S. Marine Corps Veteran 🇺🇸 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Eagle%2C_Globe%2C_and_Anchor.svg" alt="Eagle, Globe, and Anchor" width="24" height="24" style="vertical-align: middle;" />
+* **Service:** U.S. Marine Corps Veteran 🇺🇸 # <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Eagle%2C_Globe%2C_and_Anchor.svg" width="32" height="32" style="vertical-align: bottom;" />
 * **Mission:** Applying rigorous clinical diagnostic science and data automation to modern healthcare challenges.
 
 ---
