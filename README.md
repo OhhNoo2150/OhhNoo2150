@@ -1,7 +1,7 @@
-# Hi, I'm Daniel Rivera 👋
+# Hi, I'm Daniel Rivera ✊
 
 **Medical Laboratory Sciences Graduate Student | U.S. Marine Corps Veteran 🇺🇸**  
-[![Orgullo Boricua](https://img.shields.io/badge/Boricua_de_Pura_Cepa-Puerto_Rico_🇵🇷-ED0000?style=flat-square&labelColor=00205B)](https://en.wikipedia.org/wiki/Puerto_Rico)
+[![Orgullo Boricua]([https://img.shields.io/badge/Boricua_de_Pura_Cepa-Puerto_Rico_🇵🇷-ED0000?style=flat-square&labelColor=00205B)]([https://en.wikipedia.org/wiki/Puerto_Rico](https://www.estado.pr.gov/en/home)](https://www.estado.pr.gov/en/home))
 
 Graduate student bridging clinical laboratory diagnostics and public health epidemiology, with a technical background in software systems. Currently focused on clinical diagnostics and developing automated data pipelines for laboratory workflows.
 
@@ -9,15 +9,15 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 
 ### 🌴 Roots & Background
 * **Heritage:** Born / raised with proud Puerto Rican roots (Boricua) 🇵🇷
-* **Service:** U.S. Marine Corps Veteran 🇺🇸 🦅 🌐 ⚓
-* **Mission:** Applying rigorous clinical diagnostic science and data automation to modern healthcare challenges.
+* **Service:** U.S. Marine Corps Veteran 🇺🇸 🦅 🌎 ⚓
+* **Mission:** Applying rigorous clinical diagnostic science and data automation to modern healthcare challenges. 🔬 🧬
 
 ---
 
 ### 🔬 Core Focus Areas
-* **Clinical Diagnostics:** Graduate practicums and coursework across Hematology, Immunohematology, Clinical Chemistry, Urinalysis, and Flow Cytometry.
+* **Clinical Diagnostics:** Graduate practicums and coursework across Hematology, Immunohematology, Clinical Chemistry, Urinalysis, and Flow Cytometry. 🥼
 * **Laboratory Automation:** Transitioning foundational programming experience into Python and R for clinical data QC and high-dimensional analysis.
-* **Epidemiology & Public Health:** Applying public health data methods to clinical laboratory quality and surveillance.
+* **Epidemiology & Public Health:** Applying public health data methods to clinical laboratory quality and surveillance. 👨‍🔬
 
 ---
 
@@ -38,12 +38,12 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 ---
 
 ### 📜 Education & Background
-* **M.S. in Medical Laboratory Sciences** (In Progress)
-* **B.S. in Public Health** (Epidemiology Focus)
-* **Full Stack Development Certificate** — MIT xPRO[cite: 1]
+* **M.S. in Medical Laboratory Sciences** (In Progress) 🧑‍🔬
+* **B.S. in Public Health** (Epidemiology Focus) 👨‍⚕️
+* **Full Stack Development Certificate** — MIT xPRO 💻
 
 ---
 
 ### 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Rivera-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrivera)[cite: 1]
-[![X / Twitter](https://img.shields.io/badge/X-@Boricua2150-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Boricua2150)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Rivera-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrivera)
+
