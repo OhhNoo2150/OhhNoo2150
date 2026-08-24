@@ -31,11 +31,11 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 
 ---
 
-### 📡 Applied Hardware, Telemetry & Study Systems
+### 🧪 Methodologies, Instrumentation & Lab Operations
 
-* **Decentralized Mesh Communications:** LoRa hardware configuration, node deployment, and packet routing via Meshtastic.
-* **Automotive Telemetry & Diagnostics:** Diagnostic data tracking and vehicle sensor monitoring via OBD-II/CAN protocols.
-* **Knowledge Engineering:** Structured database creation, automated spaced repetition pipelines, and clinical reference indexing.
+* **Clinical Instrumentation:** Routine startup, calibration, quality control verification, and basic maintenance across automated clinical analyzers.
+* **Microscopy & Manual Techniques:** High-power brightfield microscopy for body fluids, urine sediment, differential counts, and stained tissue sections.
+* **Chemical Hygiene & Safety:** Safe handling and disposal of biohazardous specimens, chemical fixatives, and toxic substrates under strict OSHA and biosafety guidelines.
 
 ---
 
