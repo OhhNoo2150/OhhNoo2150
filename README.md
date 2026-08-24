@@ -8,20 +8,43 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 ---
 
 ### 🌴 Roots & Background
-* **Heritage:** Born / raised with proud Puerto Rican roots (Boricua) 🇵🇷
+* **Heritage:** Born in the 🇺🇸 / raised with proud Puerto Rican roots (Boricua) 🇵🇷
 * **Service:** U.S. Marine Corps Veteran 🇺🇸 🦅 🌎 ⚓
 * **Mission:** Applying rigorous clinical diagnostic science and data automation to modern healthcare challenges. 🔬 🧬
 
 ---
 
-### 🔬 Core Focus Areas
-* **Clinical Diagnostics:** Graduate practicums and coursework across Hematology, Immunohematology, Clinical Chemistry, Urinalysis, and Flow Cytometry. 🥼
-* **Laboratory Automation:** Transitioning foundational programming experience into Python and R for clinical data QC and high-dimensional analysis.
-* **Epidemiology & Public Health:** Applying public health data methods to clinical laboratory quality and surveillance. 👨‍🔬
+### 🔬 Clinical Laboratory Competencies & Diagnostic Disciplines
+
+* **Diagnostic Hematology & Hemostasis:** Automated cell counters (HORIBA ABX Micros), manual 100-cell peripheral blood smears, morphological evaluations, and routine coagulation pathways.
+* **Immunohematology (Transfusion Medicine):** ABO/Rh typing, direct/indirect antiglobulin tests (DAT/IAT), gel card crossmatching, and manual antibody identification panels.
+* **Clinical Chemistry & Urinalysis:** Automated photometric and ISE platforms (ACE Axcel Chemistry Analyzer, Siemens Clinitek), spectrophotometry, manual microscopic sediment analysis, and reagent compounding.
+* **Diagnostic Microbiology & Histology:** Specimen isolation, Gram staining, organism morphology classification, tissue processing, microtomy, and multi-channel immunohistochemistry (IHC).
+
+---
+
+### 📊 Clinical Informatics, Quality Assurance & Research
+
+* **Quality Control & Regulatory Standards:** Evaluation of Levey-Jennings charts, implementation of Westgard multi-rules ($1_{2s}, 1_{3s}, 2_{2s}, R_{4s}, 4_{1s}, 10_x$), and clinical delta checks.
+* **Epidemiological & Diagnostic Data Analysis:** Processing, managing, and validating large-scale clinical surveillance and laboratory datasets for peer-reviewed research.
+* **Flow Cytometry Analysis:** Multi-parameter cell population gating, panel setup, and diagnostic characterization.
+
+---
+
+### 📡 Applied Hardware, Telemetry & Study Systems
+
+* **Decentralized Mesh Communications:** LoRa hardware configuration, node deployment, and packet routing via Meshtastic.
+* **Automotive Telemetry & Diagnostics:** Diagnostic data tracking and vehicle sensor monitoring via OBD-II/CAN protocols.
+* **Knowledge Engineering:** Structured database creation, automated spaced repetition pipelines, and clinical reference indexing.
 
 ---
 
 ### 🛠️ Technical Background & Foundations
+
+**Development & Data Tools**  
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 **Programming & Web Foundations** *(Prior Technical Experience)*  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -29,11 +52,6 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-**Development & Data Tools**  
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ---
 
