@@ -66,7 +66,7 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 
 **Archived Projects**
 * [Interactive JavaScript Tetris Engine](https://ohhnoo2150.github.io/Tetris/)
-* [Full Stack Banking Application](https://d-riverafullstackbankingapp.herokuapp.com/)
+
 
 ---
 
