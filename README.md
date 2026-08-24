@@ -57,7 +57,7 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 
 ### 📚 Peer-Reviewed Publications & Clinical Research
 
-* **Patterson, S. B.**, **Rivera, D.**, **Sunil, T. S.**, & **Okulicz, J. F.** (2014). Evaluation of extragenital screening for gonorrhea and chlamydia in HIV-infected active duty Air Force members[cite: 4]. *Medical Surveillance Monthly Report (MSMR)*, 21(11), 7–9[cite: 4].  
+* **Patterson, S. B.**, **Rivera, D.**, **Sunil, T. S.**, & **Okulicz, J. F.** (2014). Evaluation of extragenital screening for gonorrhea and chlamydia in HIV-infected active duty Air Force members[cite: 4]. *Medical Surveillance Monthly Report (MSMR)*, 21(11), 7–9.  
   [![Read on Health.mil](https://img.shields.io/badge/MSMR-Vol.21_No.11-003366?style=flat-square&logo=read-the-docs&logoColor=white)](https://health.mil/Reference-Center/Reports/2014/01/01/Medical-Surveillance-Monthly-Report-Volume-21-Number-11) [![PubMed](https://img.shields.io/badge/PubMed-25423030-336699?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/25423030/)
 
 ---
