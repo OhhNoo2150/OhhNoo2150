@@ -29,7 +29,7 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 
 * **Quality Control & Regulatory Standards:** Evaluation of Levey-Jennings charts, implementation of Westgard multi-rules ($1_{2s}, 1_{3s}, 2_{2s}, R_{4s}, 4_{1s}, 10_x$), and clinical delta checks.
 * **Epidemiological & Diagnostic Data Analysis:** Longitudinal database management (600+ patients, 4,000+ diagnostic tests), data validation, and advanced univariate/bivariate/multivariate regression analysis.
-* **Analytical & Statistical Tools:** IBM SPSS Statistics 21, Advanced Excel Data Modeling.
+* **Statistical Modeling & Analysis:** Jamovi (R-based statistical computing) and Advanced Excel Data Modeling.
 * **Flow Cytometry Analysis:** Multi-parameter cell population gating, panel setup, and diagnostic characterization. *(VA Hospital Rotation Track)*
 
 ---
@@ -54,6 +54,7 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 **Development & Data Tools**  
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jamovi](https://img.shields.io/badge/Jamovi-Statistical_Analysis-4A739C?style=flat-square)](https://www.jamovi.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 **Programming & Web Foundations** *(Prior Technical Experience)*  
@@ -75,7 +76,6 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 * **Post-Baccalaureate Pre-Medical Sciences** — University of Texas at San Antonio *(2020)* 🧬
 * **B.S. in Public Health (Epidemiology Focus)** — University of Texas at San Antonio *(2015)* 👨‍⚕️
 
-
 ---
 
 ### 🤝 Community & Veteran Leadership
@@ -94,4 +94,3 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 [![ASCP Member](https://img.shields.io/badge/ASCP-Member-003366?style=flat-square)](https://www.ascp.org/) 
 [![ASCLS Member](https://img.shields.io/badge/ASCLS-Member-008080?style=flat-square)](https://ascls.org/) 
 [![ICCS Member](https://img.shields.io/badge/ICCS-Member-4B0082?style=flat-square)](https://www.cytometry.org/)
-
