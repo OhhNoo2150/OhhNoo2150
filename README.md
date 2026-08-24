@@ -11,6 +11,7 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 * **Heritage:** Born in the 🇺🇸 / raised with proud Puerto Rican roots (Boricua) 🇵🇷
 * **Service:** U.S. Marine Corps Veteran 🇺🇸 🦅 🌎 ⚓
 * **Mission:** Applying rigorous clinical diagnostic science and data automation to modern healthcare challenges. 🔬 🧬
+* **Languages:** Fluent in English & Spanish (Written & Verbal) 🗨️
 
 ---
 
@@ -19,14 +20,16 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 * **Diagnostic Hematology & Hemostasis:** Automated cell counters (HORIBA ABX Micros), manual 100-cell peripheral blood smears, morphological evaluations, and routine coagulation pathways.
 * **Immunohematology (Transfusion Medicine):** ABO/Rh typing, direct/indirect antiglobulin tests (DAT/IAT), gel card crossmatching, and manual antibody identification panels.
 * **Clinical Chemistry & Urinalysis:** Automated photometric and ISE platforms (ACE Axcel Chemistry Analyzer, Siemens Clinitek), spectrophotometry, manual microscopic sediment analysis, and reagent compounding.
-* **Diagnostic Microbiology & Histology:** Specimen isolation, Gram staining, organism morphology classification, tissue processing, microtomy, and multi-channel immunohistochemistry (IHC).
+* **Diagnostic Microbiology & Histology:** Specimen isolation, Gram staining, organism morphology classification, tissue section mounting, microtomy, and multi-channel immunohistochemistry (IHC).
+* **Molecular Diagnostics & Genotyping:** DNA extraction and Polymerase Chain Reaction (PCR) amplification workflows.
 
 ---
 
 ### 📊 Clinical Informatics, Quality Assurance & Research
 
 * **Quality Control & Regulatory Standards:** Evaluation of Levey-Jennings charts, implementation of Westgard multi-rules ($1_{2s}, 1_{3s}, 2_{2s}, R_{4s}, 4_{1s}, 10_x$), and clinical delta checks.
-* **Epidemiological & Diagnostic Data Analysis:** Processing, managing, and validating large-scale clinical surveillance and laboratory datasets for peer-reviewed research.
+* **Epidemiological & Diagnostic Data Analysis:** Longitudinal database management (600+ patients, 4,000+ diagnostic tests), data validation, and advanced univariate/bivariate/multivariate regression analysis.
+* **Analytical & Statistical Tools:** IBM SPSS Statistics 21, Advanced Excel Data Modeling.
 * **Flow Cytometry Analysis:** Multi-parameter cell population gating, panel setup, and diagnostic characterization. *(VA Hospital Rotation Track)*
 
 ---
@@ -36,6 +39,13 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 * **Clinical Instrumentation:** Routine startup, calibration, quality control verification, and basic maintenance across automated clinical analyzers.
 * **Microscopy & Manual Techniques:** High-power brightfield microscopy for body fluids, urine sediment, differential counts, and stained tissue sections.
 * **Chemical Hygiene & Safety:** Safe handling and disposal of biohazardous specimens, chemical fixatives, and toxic substrates under strict OSHA and biosafety guidelines.
+
+---
+
+### 📚 Peer-Reviewed Publications & Clinical Research
+
+* **Patterson, S. B.**, **Rivera, D.**, **Sunil, T. S.**, & **Okulicz, J. F.** (2014). Evaluation of extragenital screening for gonorrhea and chlamydia in HIV-infected active duty Air Force members. *Medical Surveillance Monthly Report (MSMR)*, 21(11), 7–9.  
+  [![Read on Health.mil](https://img.shields.io/badge/MSMR-Vol.21_No.11-003366?style=flat-square&logo=read-the-docs&logoColor=white)](https://health.mil/Reference-Center/Reports/2014/01/01/Medical-Surveillance-Monthly-Report-Volume-21-Number-11) [![PubMed](https://img.shields.io/badge/PubMed-25423030-336699?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/25423030/)
 
 ---
 
@@ -53,29 +63,35 @@ Graduate student bridging clinical laboratory diagnostics and public health epid
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
----
-
-### 📚 Peer-Reviewed Publications & Clinical Research
-
-* **Patterson, S. B.**, **Rivera, D.**, **Sunil, T. S.**, & **Okulicz, J. F.** (2014). Evaluation of extragenital screening for gonorrhea and chlamydia in HIV-infected active duty Air Force members[cite: 4]. *Medical Surveillance Monthly Report (MSMR)*, 21(11), 7–9[cite: 4].  
-  [![Read on Health.mil](https://img.shields.io/badge/MSMR-Vol.21_No.11-003366?style=flat-square&logo=read-the-docs&logoColor=white)](https://health.mil/Reference-Center/Reports/2014/01/01/Medical-Surveillance-Monthly-Report-Volume-21-Number-11) [![PubMed](https://img.shields.io/badge/PubMed-25423030-336699?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/25423030/)
+**Archived Projects**
+* [Interactive JavaScript Tetris Engine](https://ohhnoo2150.github.io/Tetris/)
+* [Full Stack Banking Application](https://d-riverafullstackbankingapp.herokuapp.com/)
 
 ---
 
-### 📜 Education & Background
+### 📜 Education & Credentials
 * **M.S. in Medical Laboratory Sciences** — UT Health San Antonio *(Expected August 2027)* 🧑‍🔬
-* **B.S. in Public Health** (Epidemiology Focus) 👨‍⚕️
-* **Full Stack Development Certificate** — MIT xPRO 💻
+* **Full Stack Development Certificate** — MIT xPRO *(2022)* 💻
+* **Post-Baccalaureate Pre-Medical Sciences** — University of Texas at San Antonio *(2020)* 🧬
+* **B.S. in Public Health (Epidemiology Focus)** — University of Texas at San Antonio *(2015)* 👨‍⚕️
+
+
+---
+
+### 🤝 Community & Veteran Leadership
+* **Big Brothers Big Sisters of South Texas:** Mentor (2008 – 2015)
+* **Marine Corps League:** Member (2003 – Present)
+* **American Legion:** Member (2003 – Present)
 
 ---
 
 ## 📫 Get in Contact With Me
 
-<!-- Connect Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/DanielRivera) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrivera/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:Daniel.i.rivera@pm.me) 
 
 ### 🔬 Professional Affiliations
 [![ASCP Member](https://img.shields.io/badge/ASCP-Member-003366?style=flat-square)](https://www.ascp.org/) 
 [![ASCLS Member](https://img.shields.io/badge/ASCLS-Member-008080?style=flat-square)](https://ascls.org/) 
 [![ICCS Member](https://img.shields.io/badge/ICCS-Member-4B0082?style=flat-square)](https://www.cytometry.org/)
+
